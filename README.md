@@ -1,4 +1,15 @@
 # Telco Customer Churn – End-to-End Project
+<p align="center">
+
+<img src="img/churn_telco.png" width="600" height="300"/>
+
+</p>
+
+<p align="center">
+
+<em> Imagem criada pelo Gemini. </em>
+
+</p>
 
 ## Resultados Parciais
 Os resultados parciais do projeto podem ser encontrados neste notebook:
@@ -19,10 +30,14 @@ churn-project-end-to-end/
 ├── data/                  🔹 Dados brutos ou pré-processados usados no projeto
 │   └── (datasets, CSVs etc.)
 │
+├── app/                   🔹 Arquivos para o app em Streamlit
+│
+├── models/                🔹 Arquivos de modelo em .pkl
+│
 ├── notebooks/             🔹 Notebooks com a análise exploratória, modelagem e insights
 │   └── 01_main_notebook.ipynb
 │
-├── src/             🔹 Arquivos .py 
+├── src/                   🔹 Arquivos .py 
 │   └── processing.py
 │
 ├── .gitignore             🔹 Arquivos e pastas ignorados pelo Git
