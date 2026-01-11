@@ -22,6 +22,9 @@ churn-project-end-to-end/
 ├── notebooks/             🔹 Notebooks com a análise exploratória, modelagem e insights
 │   └── 01_main_notebook.ipynb
 │
+├── src/             🔹 Arquivos .py 
+│   └── processing.py
+│
 ├── .gitignore             🔹 Arquivos e pastas ignorados pelo Git
 ├── LICENSE                🔹 Licença do projeto
 ├── README.md              🔹 Documentação principal do projeto
