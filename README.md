@@ -14,6 +14,20 @@ A solução inclui:
 - Business insights
 - A Streamlit app for churn probability prediction
 
+```bash
+churn-project-end-to-end/
+├── data/                  🔹 Dados brutos ou pré-processados usados no projeto
+│   └── (datasets, CSVs etc.)
+│
+├── notebooks/             🔹 Notebooks com a análise exploratória, modelagem e insights
+│   └── 01_main_notebook.ipynb
+│
+├── .gitignore             🔹 Arquivos e pastas ignorados pelo Git
+├── LICENSE                🔹 Licença do projeto
+├── README.md              🔹 Documentação principal do projeto
+└── requirements.txt       🔹 Dependências do Python para rodar o projeto
+```
+
 ## Dataset
 Telco Customer Churn dataset. Disponível no Kaggle.
 
